@@ -8,7 +8,7 @@ projects, bundled so documents render without a network connection:
 
 - markdown-it 14.3.0 — MIT License
 - markdown-it-footnote 4.0.0 — MIT License
-- Mermaid 11.16.0 — MIT License
+- Mermaid 11.17.2 — MIT License
 - KaTeX 0.16.47 — MIT License (covers the library, stylesheet and web fonts)
 - highlight.js 11.11.1 — BSD 3-Clause License
 

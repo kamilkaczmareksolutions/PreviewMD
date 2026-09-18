@@ -18,7 +18,7 @@ enum Acknowledgements {
     static let vendoredLibraries = [
         "markdown-it 14.3.0",
         "markdown-it-footnote 4.0.0",
-        "Mermaid 11.16.0",
+        "Mermaid 11.17.2",
         "KaTeX 0.16.47",
         "highlight.js 11.11.1"
     ]
@@ -103,7 +103,7 @@ enum Acknowledgements {
 
     ════════════════════════════════════════════════════════════════════════
 
-    Mermaid 11.16.0 — MIT License
+    Mermaid 11.17.2 — MIT License
     https://github.com/mermaid-js/mermaid
 
     The MIT License (MIT)
@@ -131,9 +131,9 @@ enum Acknowledgements {
     The Mermaid build bundled here carries its own attributions for the
     components compiled into it. Reproduced from that build:
 
-      dompurify — DOMPurify 3.4.0 | (c) Cure53 and other contributors |
+      dompurify — DOMPurify 3.4.12 | (c) Cure53 and other contributors |
       Released under the Apache license 2.0 and Mozilla Public License 2.0 |
-      github.com/cure53/DOMPurify/blob/3.4.0/LICENSE
+      github.com/cure53/DOMPurify/blob/3.4.12/LICENSE
 
       js-yaml — js-yaml 4.1.1, https://github.com/nodeca/js-yaml, MIT License
 
