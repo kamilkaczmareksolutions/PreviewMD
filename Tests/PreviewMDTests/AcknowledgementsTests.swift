@@ -74,7 +74,7 @@ final class AcknowledgementsTests: XCTestCase {
         let expectations: [(file: String, marker: String, library: String)] = [
             ("markdown-it.min.js", "markdown-it 14.3.0", "markdown-it 14.3.0"),
             ("markdown-it-footnote.min.js", "footnote 4.0.0", "markdown-it-footnote 4.0.0"),
-            ("mermaid.min.js", #"version:"11.16.0""#, "Mermaid 11.16.0"),
+            ("mermaid.min.js", #"version:"11.17.2""#, "Mermaid 11.17.2"),
             ("katex.min.js", #"version:"0.16.47""#, "KaTeX 0.16.47"),
             ("highlight.min.js", #"versionString="11.11.1""#, "highlight.js 11.11.1")
         ]
